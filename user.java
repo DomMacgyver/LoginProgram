@@ -1,3 +1,4 @@
+//class for holding username, password, and email along with other pertinant information about a user object and the methods for modifying each variable
 package Jframet;
 
 import java.util.*;
