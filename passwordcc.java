@@ -1,3 +1,5 @@
+//Sub class for displaying password retype error messages
+
 package Jframet;
 
 public class passwordcc extends ast
