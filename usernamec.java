@@ -1,3 +1,5 @@
+//Sub class for displaying username error messages
+
 package Jframet;
 
 public class usernamec extends ast
