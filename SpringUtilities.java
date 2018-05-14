@@ -1,3 +1,6 @@
+//provides a host of functions for resizing components of JFrames
+//original file can be found here https://docs.oracle.com/javase/tutorial/uiswing/examples/layout/SpringGridProject/src/layout/SpringUtilities.java
+
 package Jframet;
 
 
