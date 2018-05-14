@@ -1,3 +1,5 @@
+//class for serializing a user object and storing to a location on the server
+
 package Jframet;
 
 import java.io.*;
