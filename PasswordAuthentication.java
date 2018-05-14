@@ -1,3 +1,5 @@
+//class for hashing passwors and checking hash passwords against password for a user logging in
+
 package Jframet;
 import java.math.BigInteger;
 import java.security.NoSuchAlgorithmException;
