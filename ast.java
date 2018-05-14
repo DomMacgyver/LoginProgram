@@ -1,3 +1,5 @@
+//Master class for the asteriks display
+
 package Jframet;
 
 import java.awt.Color;
