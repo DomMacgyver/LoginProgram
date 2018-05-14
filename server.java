@@ -1,3 +1,5 @@
+//Main executable file for server side
+
 package Jframet;
 
 import java.util.ArrayList;
