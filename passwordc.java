@@ -1,3 +1,5 @@
+//Sub class for displaying password error messages
+
 package Jframet;
 
 public class passwordc extends ast
