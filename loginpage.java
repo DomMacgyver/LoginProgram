@@ -1,3 +1,5 @@
+//main executable for client side
+
 package Jframet;
 
 import javax.swing.*;
