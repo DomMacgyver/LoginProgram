@@ -1,3 +1,5 @@
+//Sub class for displaying email error messages
+
 package Jframet;
 
 public class emailc extends ast
